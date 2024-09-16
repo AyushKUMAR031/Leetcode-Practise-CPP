@@ -32,14 +32,8 @@ public:
     }
 };
 
-//pro method 
+//better method 
 //chatgpt method
-#include <iostream>
-#include <vector>
-#include <string>
-#include <algorithm>
-
-using namespace std;
 
 // Helper function to convert time string "HH:MM" to total minutes from midnight
 int convertToMinutes(const string &time) {
@@ -72,3 +66,6 @@ int findMinDifference(vector<string>& timePoints) {
 
     return minDifference;
 }
+
+
+//pro method
