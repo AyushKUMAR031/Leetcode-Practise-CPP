@@ -33,3 +33,42 @@ public:
 };
 
 //pro method 
+//chatgpt method
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+
+using namespace std;
+
+// Helper function to convert time string "HH:MM" to total minutes from midnight
+int convertToMinutes(const string &time) {
+    int hours = stoi(time.substr(0, 2));
+    int minutes = stoi(time.substr(3, 2));
+    return hours * 60 + minutes;
+}
+
+int findMinDifference(vector<string>& timePoints) {
+    vector<int> minutes;
+
+    // Convert each time point to minutes and store in the vector
+    for (const string& time : timePoints) {
+        minutes.push_back(convertToMinutes(time));
+    }
+
+    // Sort the time points in minutes
+    sort(minutes.begin(), minutes.end());
+
+    int n = minutes.size();
+    int minDifference = 1440; // Max difference possible is 1440 minutes (24 hours)
+
+    // Calculate the minimum difference between adjacent time points
+    for (int i = 1; i < n; ++i) {
+        minDifference = min(minDifference, minutes[i] - minutes[i - 1]);
+    }
+
+    // Check the difference between the last and the first time point across midnight
+    minDifference = min(minDifference, 1440 - (minutes[n - 1] - minutes[0]));
+
+    return minDifference;
+}
