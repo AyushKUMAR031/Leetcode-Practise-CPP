@@ -1,3 +1,4 @@
+//my method -> time 652ms (6.28)% beats
 class Solution {
 public:
     int findMinDifference(vector<string>& timePoints) {
@@ -30,3 +31,5 @@ public:
         return min_diff;
     }
 };
+
+//pro method 
