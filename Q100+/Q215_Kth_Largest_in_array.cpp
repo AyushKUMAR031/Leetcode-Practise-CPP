@@ -9,7 +9,7 @@ public:
         //         cout<<a<<" ";
         //     }
         // cout<<endl;
-        //we will poping kth times and reducing heap.
+        //we will be doing heap sort kth times and reducing(heapify) the heap.
         for(int i=n-1;i>=n-k;i--){
             swap(nums[0],nums[i]);
             heapify(nums,i,0);
