@@ -19,4 +19,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q215_Kth_Largest_in_array.cpp) |
-
+## Array
+|  |  
+| ------- | 
+|[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|
