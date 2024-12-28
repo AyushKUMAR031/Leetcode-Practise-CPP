@@ -27,7 +27,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |
 | ------- | ------- |
 | [0746-Min-Cost-Climbing](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q746_Min_cost_Climbing_Stairs.cpp) |[0322-Coin-Change](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q322_Coin_Change.cpp)|
-|[0198-House-Robber](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q198_House_Robber.cpp)||
+|[0198-House-Robber](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q198_House_Robber.cpp)|[0213-House-Robber-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q213_House_Robber_II.cpp)|
 ## New Topic
 |  |  |
 | ------- | ------- |
