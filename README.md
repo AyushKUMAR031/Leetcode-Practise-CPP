@@ -26,7 +26,7 @@ A repository for practicing Leetcode Questions 🔥
 ## DP
 |  |  |
 | ------- | ------- |
-| [Q746-Min-Cost-Climbing](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q746_Min_cost_Climbing_Stairs.cpp) |[]()|
+| [0746-Min-Cost-Climbing](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q746_Min_cost_Climbing_Stairs.cpp) |[0322-Coin-Change](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q322_Coin_Change.cpp)|
 ## New Topic
 |  |  |
 | ------- | ------- |
