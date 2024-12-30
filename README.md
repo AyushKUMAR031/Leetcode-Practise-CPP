@@ -23,16 +23,30 @@ A repository for practicing Leetcode Questions 🔥
 |  |  
 | ------- | 
 |[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|
+## Matrix
+|  |  |
+| ------- | ------- |
+| [0048-Rotate-Image](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q48_Rotate_Image.cpp) |[]()|
 ## DP
 |  |  |
 | ------- | ------- |
 | [0746-Min-Cost-Climbing](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q746_Min_cost_Climbing_Stairs.cpp) |[0322-Coin-Change](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q322_Coin_Change.cpp)|
 |[0198-House-Robber](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q198_House_Robber.cpp)|[0213-House-Robber-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q213_House_Robber_II.cpp)|
 ## BFS
+|  |  |  |
+| ------- | ------- | ------- |
+| [0100-Same-Tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q100_Same_Tree.cpp) |[0101-Symmetric-tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q101_Symmetric_tree.cpp) |[0102-Binary-Tree-levelOrder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q102_Binary_Tree_Level_Order.cpp) |
+|[0104-Max-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q104_Maximum_Depth_in_Binary_tree.cpp) |[0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) | |
+## Binary Tree
 |  |  |
 | ------- | ------- |
-| [0100-Same-Tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q100_Same_Tree.cpp) |[]()|
-## New Topic
+| [0101-Symmetric-tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q101_Symmetric_tree.cpp)|[0102-Binary-Tree-levelOrder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q102_Binary_Tree_Level_Order.cpp) | 
+| [0104-Max-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q104_Maximum_Depth_in_Binary_tree.cpp)| |
+## Hash Table
 |  |  |
 | ------- | ------- |
-| []() |[]()|
+| [0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) |[]()|
+<!-- ## New Topic
+|  |  |
+| ------- | ------- |
+| []() |[]()| -->
