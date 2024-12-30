@@ -57,3 +57,38 @@ public:
         return min(leftDepth, rightDepth) + 1;    // Adding 1 is the current node which is the parent of the two subtrees...
     }
 };
+//simplified 
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int solve(TreeNode* root) {
+        if (root == NULL) return 0;
+
+        int left = solve(root->left);        
+        int right = solve(root->right);
+
+        if (root->left == nullptr && root->right == nullptr) return 1;
+
+        if(root->left == nullptr)
+            return 1 + right;
+        if(root->right == nullptr)
+            return 1 + left;
+
+        return min(left,right)+1;
+        
+    }
+    int minDepth(TreeNode* root) {
+        return solve(root);
+    }
+};
