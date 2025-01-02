@@ -57,6 +57,10 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |
 | ------- | ------- |
 | [0078-Subset](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q78_Subset.cpp) |[]()|
+## Two Pointer
+|  |  |
+| ------- | ------- |
+| [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[]()|
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
