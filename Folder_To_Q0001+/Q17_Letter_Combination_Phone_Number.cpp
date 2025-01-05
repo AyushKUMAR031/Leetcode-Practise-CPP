@@ -33,3 +33,25 @@ public:
 };
 
 //best solution
+class Solution {
+public:
+    void solve(string mapping[],string digits,vector<string>& ans,int i,string curr){
+        if(i >= digits.size()){
+            ans.push_back(curr);
+            return;
+        }
+
+        int digit = digits[i] - '0';
+        for(char ch : mapping[digit]){
+            solve(mapping,digits,ans,i+1,curr+ch);
+        }
+    }
+    vector<string> letterCombinations(string digits) {
+        vector<string> ans;
+        string mapping[10] = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        if(digits.empty())
+            return ans;
+        solve(mapping,digits,ans,0,"");
+        return ans;
+    }
+};
