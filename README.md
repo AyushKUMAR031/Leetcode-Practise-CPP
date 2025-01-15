@@ -63,9 +63,9 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- |
 | [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[]()|
 ## Prefix Sum
-|  |  |
-| ------- | ------- |
-| [0303-Range-Sum-Query](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q303_Range_Sum_Query(Prefix_Sum).cpp) |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|
+|  |  |  |
+| ------- | ------- | ------- |
+| [0303-Range-Sum-Query](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q303_Range_Sum_Query(Prefix_Sum).cpp) |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[0001-Two-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001+/Q1_Two_Sum.cpp)|
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
