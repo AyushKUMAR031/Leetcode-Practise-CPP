@@ -21,9 +21,9 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q215_Kth_Largest_in_array.cpp) |[0023-Merge_K_List](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q23_Merge_K_List.cpp) `H` |
 ## Array
-|  |  |
-| ------- | ------- |
-|[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|
+|  |  |  |
+| ------- | ------- | ------- |
+|[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0053-Max-Subarray-Kadene's-Algo](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q53_Maximum_SubArray.cpp) `Algo`|
 ## Matrix
 |  |  |
 | ------- | ------- |
