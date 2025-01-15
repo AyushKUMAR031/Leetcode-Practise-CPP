@@ -66,7 +66,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 | [0303-Range-Sum-Query](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q303_Range_Sum_Query(Prefix_Sum).cpp) |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[0001-Two-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001+/Q1_Two_Sum.cpp)|
-|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|||
+|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0304-Range-Sum-Query-2D](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q304_Range_Sum_Query_2D.cpp)|[]()|
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
