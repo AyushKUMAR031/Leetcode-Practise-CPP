@@ -25,3 +25,5 @@ public:
         return totalWater;
     }
 };
+
+//[SolutionVideo](https://youtu.be/UZG3-vZlFM4?si=xhyOjPQI8V0-8sks)
