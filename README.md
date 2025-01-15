@@ -21,9 +21,9 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q215_Kth_Largest_in_array.cpp) |[0023-Merge_K_List](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q23_Merge_K_List.cpp) `H` |
 ## Array
-|  |  
-| ------- | 
-|[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|
+|  |  |
+| ------- | ------- |
+|[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|
 ## Matrix
 |  |  |
 | ------- | ------- |
@@ -66,6 +66,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 | [0303-Range-Sum-Query](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q303_Range_Sum_Query(Prefix_Sum).cpp) |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[0001-Two-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001+/Q1_Two_Sum.cpp)|
+|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|||
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
