@@ -50,9 +50,9 @@ A repository for practicing Leetcode Questions 🔥
 | [0144-PreOrderTraversal](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q144_PreOrderTraversal.cpp)|[0094-InOrderTraversal](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q94_InOrderTraversal.cpp)| [0145-PostOrderTraversal](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q145_PostOrderTraversal.cpp)| 
 |[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) | | |
 ## Hash Table
-|  |  |
-| ------- | ------- |
-| [0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) `H` |[]()|
+|  |  |  |
+| ------- | ------- | ------- |
+| [0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) `H` |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[]()|
 ## Recursion and BackTracking
 |  |  |  |
 | ------- | ------- | ------- |
@@ -62,6 +62,10 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |
 | ------- | ------- |
 | [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[]()|
+## Prefix Sum
+|  |  |
+| ------- | ------- |
+| [0303-Range-Sum-Query](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q303_Range_Sum_Query(Prefix_Sum).cpp) |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
