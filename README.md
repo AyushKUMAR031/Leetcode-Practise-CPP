@@ -20,6 +20,10 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q215_Kth_Largest_in_array.cpp) |[0023-Merge_K_List](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q23_Merge_K_List.cpp) `H` |
+## String
+|  |  |
+| ------- | ------- |
+| [0006-ZigZagConversion](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001%2B/Q6_ZigZag_Converison.cpp) |[]()|
 ## Array
 |  |  |  |
 | ------- | ------- | ------- |
