@@ -28,7 +28,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 |[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0053-Max-Subarray-Kadene's-Algo](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q53_Maximum_SubArray.cpp) `Algo`|
-|[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)||
+|[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|[0152-Maximum-Product-SubArray](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q152_Maximum_Product_Subarray.cpp)|
 ## Matrix
 |  |  |
 | ------- | ------- |
