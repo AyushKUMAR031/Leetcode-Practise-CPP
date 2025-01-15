@@ -11,3 +11,20 @@ public:
         return {-1,-1};
     }
 };
+
+//better
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> prefix;
+        for(int i=0;i<nums.size();i++){
+            int diff = target - nums[i];
+            if(prefix.find(diff) != prefix.end()){
+                return {i,prefix[diff]};
+            }else{
+                prefix[nums[i]] = i;
+            }
+        }
+        return {};
+    }
+};
