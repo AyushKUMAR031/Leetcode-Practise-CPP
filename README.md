@@ -29,6 +29,7 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 |[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0053-Max-Subarray-Kadene's-Algo](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q53_Maximum_SubArray.cpp) `Algo`|
 |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|[0152-Maximum-Product-SubArray](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q152_Maximum_Product_Subarray.cpp)|
+|[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)||
 ## Matrix
 |  |  |
 | ------- | ------- |
@@ -57,7 +58,8 @@ A repository for practicing Leetcode Questions 🔥
 ## Hash Table
 |  |  |  |
 | ------- | ------- | ------- |
-| [0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) `H` |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[]()|
+| [0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) `H` |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|
+|[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)|||
 ## Recursion and BackTracking
 |  |  |  |
 | ------- | ------- | ------- |
