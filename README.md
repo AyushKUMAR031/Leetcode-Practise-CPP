@@ -76,6 +76,7 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|
 |[0167-Two-Sum-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q167_Two_Sum_II.cpp)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0018-4Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q18_4Sum.cpp) `M`|
+|[0075-Sort-Colors](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q75_Sort_Colors.cpp) `M`|||
 ## Prefix Sum
 |  |  |  |
 | ------- | ------- | ------- |
