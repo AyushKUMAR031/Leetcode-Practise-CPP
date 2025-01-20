@@ -29,11 +29,17 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 |[0048-rotate-image](https://github.com/AyushKUMAR031/LeetCode_Submissions/tree/master/0048-rotate-image)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0053-Max-Subarray-Kadene's-Algo](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q53_Maximum_SubArray.cpp) `Algo`|
 |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|[0152-Maximum-Product-SubArray](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q152_Maximum_Product_Subarray.cpp)|
-|[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)||
+|[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)|[0350-Intersection-with-2-Array-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q350_Interaction_with_2_Array_II.cpp)|
 ## Matrix
 |  |  |
 | ------- | ------- |
 | [0048-Rotate-Image](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q48_Rotate_Image.cpp) |[]()|
+
+## Sorting
+|  |  |
+| ------- | ------- |
+| [0350-Intersection-with-2-Array-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q350_Interaction_with_2_Array_II.cpp) |[]()|
+
 ## DP
 |  |  |  |
 | ------- | ------- | ------- |
@@ -75,6 +81,7 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0303-Range-Sum-Query](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q303_Range_Sum_Query(Prefix_Sum).cpp) |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[0001-Two-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001+/Q1_Two_Sum.cpp)|
 |[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0304-Range-Sum-Query-2D](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q304_Range_Sum_Query_2D.cpp)|[]()|
+
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
