@@ -1,3 +1,4 @@
+//logic approach
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -6,11 +7,21 @@ public:
         if(nums[i] == 0){
             swap(nums[l],nums[i]);
             l++;
+            i++;
         }else if(nums[i] == 2){
             swap(nums[r],nums[i]);
             r--;
+        }else if(nums[i] == 1){
+            i++;
         }
-        i++;
        }
+    }
+};
+
+//trick
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+       sort(nums.begin(),nums.end()); //IntroSort approach
     }
 };
