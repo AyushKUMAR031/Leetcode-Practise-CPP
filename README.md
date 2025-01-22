@@ -47,6 +47,11 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- |
 | [0350-Intersection-with-2-Array-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q350_Interaction_with_2_Array_II.cpp) |[]()|
 
+## Linked List
+|  |  |
+| ------- | ------- |
+| [0237-Delete-Node-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q237_Delete_Node_in_LL.cpp) |[]()|
+
 ## DP
 |  |  |  |
 | ------- | ------- | ------- |
