@@ -35,7 +35,7 @@ A repository for practicing Leetcode Questions 🔥
 ## Binary Search
 |  |  |
 | ------- | ------- |
-| [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[]()|
+| [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|
 
 ## Matrix
 |  |  |
