@@ -33,9 +33,10 @@ A repository for practicing Leetcode Questions 🔥
 |[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)|[0350-Intersection-with-2-Array-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q350_Interaction_with_2_Array_II.cpp)|
 
 ## Binary Search
-|  |  |
-| ------- | ------- |
-| [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|
+|  |  |  |
+| ------- | ------- | ------- |
+| [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|[0069-SqrtX](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010+/Q69_Sqrt(x).cpp)|
+||||
 
 ## Matrix
 |  |  |
