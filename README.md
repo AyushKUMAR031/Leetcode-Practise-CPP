@@ -36,7 +36,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 | [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|[0069-SqrtX](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010+/Q69_Sqrt(x).cpp)|
-||||
+|[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|||
 
 ## Matrix
 |  |  |
