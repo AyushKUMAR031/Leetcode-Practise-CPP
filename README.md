@@ -51,7 +51,7 @@ A repository for practicing Leetcode Questions 🔥
 ## Linked List
 |  |  |  |
 | ------- | ------- | ------- |
-| [0237-Delete-Node-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q237_Delete_Node_in_LL.cpp) |[0206-Reverse-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q206_Reverse_in_LL.cpp)|[]()|
+| [0237-Delete-Node-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q237_Delete_Node_in_LL.cpp) |[0206-Reverse-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q206_Reverse_in_LL.cpp)|[0092-Reverse-In-LL-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q92_Reverse_in_LL_II.cpp) `M`|
 ||||
 ||||
 
