@@ -27,3 +27,27 @@ public:
         return prev;
     }
 };
+
+
+//same logic but written in the structure of Recursion
+class Solution {
+public:
+    void reverse(ListNode* &head,ListNode* curr,ListNode* prev){
+        //base
+        if(curr == NULL){
+            head = prev;
+            return;
+        }
+
+        //recursive
+        reverse(head,curr->next,curr);
+        curr->next = prev;
+
+    }
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        reverse(head,curr,prev);
+        return head;
+    }
+};
