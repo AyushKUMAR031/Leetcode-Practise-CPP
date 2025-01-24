@@ -36,7 +36,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 | [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|[0069-SqrtX](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010+/Q69_Sqrt(x).cpp)|
-|[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|||
+|[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|[0162-Peak-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q162_Find_Peak_Element.cpp)||
 
 ## Matrix
 |  |  |
@@ -49,9 +49,11 @@ A repository for practicing Leetcode Questions 🔥
 | [0350-Intersection-with-2-Array-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q350_Interaction_with_2_Array_II.cpp) |[]()|
 
 ## Linked List
-|  |  |
-| ------- | ------- |
-| [0237-Delete-Node-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q237_Delete_Node_in_LL.cpp) |[]()|
+|  |  |  |
+| ------- | ------- | ------- |
+| [0237-Delete-Node-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q237_Delete_Node_in_LL.cpp) |[0206-Reverse-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q206_Reverse_in_LL.cpp)|[]()|
+||||
+||||
 
 ## DP
 |  |  |  |
