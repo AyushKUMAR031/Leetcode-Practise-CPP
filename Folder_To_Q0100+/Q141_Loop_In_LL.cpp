@@ -26,3 +26,4 @@ public:
 };
 
 //best
+if(head == nullptr || head->next == nullptr) return false; //adding this line beats 97%
