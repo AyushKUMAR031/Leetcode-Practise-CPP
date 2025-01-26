@@ -27,3 +27,26 @@ public:
 
 //best
 if(head == nullptr || head->next == nullptr) return false; //adding this line beats 97%
+
+//another way but not good but new way
+class Solution {
+public:
+    bool hasCycle(ListNode *head) {
+        if(head == NULL){
+            return false;
+        }
+        map<ListNode*,bool> visited;
+
+        ListNode* temp = head;
+        while(temp != NULL){
+
+            //cycle present hai
+            if(visited[temp] == true){
+                return true;
+            }
+            visited[temp] = true;
+            temp = temp->next;
+        }
+        return false;
+    }
+};
