@@ -66,7 +66,7 @@ A repository for practicing Leetcode Questions 🔥
 ## BFS
 |  |  |  |
 | ------- | ------- | ------- |
-| [0100-Same-Tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q100_Same_Tree.cpp) |[0101-Symmetric-tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q101_Symmetric_tree.cpp) |[0102-Binary-Tree-levelOrder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q102_Binary_Tree_Level_Order.cpp) |
+| [0100-Same-Tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q100_Same_Tree.cpp) |[0101-Symmetric-tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q101_Symmetric_tree.cpp) |[0102-Binary-Tree-levelOrder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q102_Binary_Tree_Level_Order.cpp) |
 |[0104-Max-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q104_Maximum_Depth_in_Binary_tree.cpp) |[0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) | [0111-Minimum-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q111_Minimum_depth.cpp) |
 |[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) | | |
 
