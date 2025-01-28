@@ -56,6 +56,7 @@ A repository for practicing Leetcode Questions 🔥
 | [0237-Delete-Node-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q237_Delete_Node_in_LL.cpp) |[0206-Reverse-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q206_Reverse_in_LL.cpp)|[0092-Reverse-In-LL-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q92_Reverse_in_LL_II.cpp) `M`|
 |[0876-Middle-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q876_Middle_In_LL.cpp)|[0025-Reverse-LL-in-K-Group](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q25_Reverese_LL_in_K_Group.cpp) `H`|[0141-Loop-In-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q141_Loop_In_LL.cpp)|
 |[0203-Remove-LL-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q203_Remove_LL_Element.cpp)|[0142-LL-Cycle-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q142_LL_Cycle_II.cpp) `M`|[2095-Delete-Mid-IN-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q1000%2B/Q2095_Delete_The_Mid_LL.cpp)|
+|[0328-Odd-Even-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q328_Odd_Even_LL.cpp)|||
 
 ## Stack
 |  |  |
