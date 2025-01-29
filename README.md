@@ -57,7 +57,7 @@ A repository for practicing Leetcode Questions 🔥
 |[0876-Middle-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q876_Middle_In_LL.cpp)|[0025-Reverse-LL-in-K-Group](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q25_Reverese_LL_in_K_Group.cpp) `H`|[0141-Loop-In-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q141_Loop_In_LL.cpp)|
 |[0203-Remove-LL-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q203_Remove_LL_Element.cpp)|[0142-LL-Cycle-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q142_LL_Cycle_II.cpp) `M`|[2095-Delete-Mid-IN-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q1000%2B/Q2095_Delete_The_Mid_LL.cpp)|
 |[0328-Odd-Even-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q328_Odd_Even_LL.cpp)|[0083-Remove-Duplicate-in-Sorted-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q83_Remove_Duplicate_in_Sorted_LL.cpp)|[0082-Remove-Duplicates-in-Sorted-LL-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q82_Remove_Duplicates_in_Sorted_LL_II.cpp)|
-|[0234-Palindrome-In-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q234_Palindrome_in_LL.cpp) `E`|||
+|[0234-Palindrome-In-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q234_Palindrome_in_LL.cpp) `E`|[0002-Add-2-Number](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001%2B/Q2_Add_Two_Numbers.cpp) `M`||
 
 ## Stack
 |  |  |
