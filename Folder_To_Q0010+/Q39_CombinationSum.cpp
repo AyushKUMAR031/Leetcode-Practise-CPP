@@ -39,5 +39,40 @@ public:
     }
 };
 
-
+//-------------------------------------------------------------------------------------------------------------------------
 //best or real technique.
+class Solution {
+public:
+    void solve(vector<int> &candidates, vector<vector<int>> &ans,vector<int> &temp, int target,int start){
+        //base case : when the target gets 0 return
+        if(target == 0){
+            ans.push_back(temp);
+            return;
+        }
+
+        //checking cases for negative target and what if we iterate over the size.
+        if(target < 0){
+            return;
+        }
+
+        //From my last submission of take and notTake
+        // We will use loop here
+        for(int i=start; i<candidates.size(); i++){
+            temp.push_back(candidates[i]);
+            solve(candidates,ans,temp,target-candidates[i],i);
+            //backtracking to pop the last inserted candidate in temp.
+            temp.pop_back();
+        }        
+    }
+
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+
+        //STEP-1 : setting up the 2d vector for storing  valid results.
+        vector<vector<int>> ans;
+        vector<int> temp;
+
+        solve(candidates, ans, temp, target, 0);
+
+        return ans;
+    }
+};
