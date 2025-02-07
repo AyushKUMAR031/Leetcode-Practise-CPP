@@ -127,6 +127,12 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0876-Middle-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q876_Middle_In_LL.cpp) |[]()|[]()|
 
+
+## HashMap
+|  |  |
+| ------- | ------- |
+| [0242-Valid-Anagram](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q242_Valid_Anagram.cpp) |[]()|
+
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
