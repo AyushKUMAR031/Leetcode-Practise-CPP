@@ -125,7 +125,8 @@ A repository for practicing Leetcode Questions 🔥
 ## Fast & Slow Pointer
 |  |  |  |
 | ------- | ------- | ------- |
-| [0876-Middle-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q876_Middle_In_LL.cpp) |[]()|[]()|
+| [0876-Middle-in-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q876_Middle_In_LL.cpp) | [0141-Loop-In-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q141_Loop_In_LL.cpp)|[0142-LL-Cycle-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q142_LL_Cycle_II.cpp) `M`|
+||||
 
 <!-- ## New Topic
 |  |  |
