@@ -53,3 +53,26 @@ public:
         return output+1;
     }   
 };
+
+//best - sliding window technique
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        int window = 0;
+        int l = 0;
+        unordered_map<char,int> mp;
+
+        for(int r = 0; r < s.size(); r++){
+            char c = s[r];
+            mp[c]++;
+
+            while(mp[c] > 1){
+                char leftChar = s[l];
+                mp[leftChar]--;
+                l++;
+            }
+            window = max(window,r-l+1);
+        }
+        return window;
+    }
+};
