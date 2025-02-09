@@ -131,7 +131,7 @@ A repository for practicing Leetcode Questions 🔥
 ## Sliding Window
 |  |  |  |
 | ------- | ------- | ------- |
-| [0003-Longest-Substring-Without-Repeating-Characters](https://github.com/AyushKUMAR031/Leetcode-Practise/edit/main/Folder_To_Q0001%2B/Q3_Longest-subString-w-out-repeat.cpp) |[]()| []()| 
+| [0003-Longest-Substring-Without-Repeating-Characters](https://github.com/AyushKUMAR031/Leetcode-Practise/edit/main/Folder_To_Q0001%2B/Q3_Longest-subString-w-out-repeat.cpp) |[0643-Maxium-Avg-Subarray-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q643_Maxium_Avg_SubArray_I.cpp)| []()| 
 
 <!-- ## New Topic
 |  |  |
