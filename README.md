@@ -132,6 +132,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 | [0003-Longest-Substring-Without-Repeating-Characters](https://github.com/AyushKUMAR031/Leetcode-Practise/edit/main/Folder_To_Q0001%2B/Q3_Longest-subString-w-out-repeat.cpp) |[0643-Maxium-Avg-Subarray-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q643_Maxium_Avg_SubArray_I.cpp)| [0076-Minimum-Window-Substring](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q76_Minimum_Window_SubString.cpp) `H`| 
+| [1004-Max-Consecutive-III](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q1000%2B/Q1004_Max_Consecutive_III.cpp) `M`|||
 
 ## Stack
 |  |  |
