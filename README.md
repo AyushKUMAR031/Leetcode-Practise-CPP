@@ -68,8 +68,7 @@ A repository for practicing Leetcode Questions 🔥
 |  |  |  |
 | ------- | ------- | ------- |
 | [0020-Valid-Parentheses](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q20_Valid_Parenteses.cpp) | [0735-Asteroid-Collision](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q735_Asteroid_Collision.cpp) `M` |[0496-Next-Greater-Element-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q496_Next_Greater_Element.cpp)|
-|[0503-NextGreaterElement-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q503_Next_Greater_Element_II.cpp) `M`|||
-
+|[0503-NextGreaterElement-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q503_Next_Greater_Element_II.cpp) `M`|[0084-Largest-Rectangle-In-Histogram](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q84_Largest_Rectangle_in_Histogram.cpp) `H`||
 
 ## DP
 |  |  |  |
