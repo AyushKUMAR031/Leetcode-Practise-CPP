@@ -75,6 +75,7 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0746-Min-Cost-Climbing](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q746_Min_cost_Climbing_Stairs.cpp) |[0322-Coin-Change](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q322_Coin_Change.cpp) `P`|[0198-House-Robber](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q198_House_Robber.cpp)|
 |[0213-House-Robber-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q213_House_Robber_II.cpp)|[0518-Coin-Change-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q518_Coin_Change_II.cpp) `P`|[0121-Buy-Sell-Stocks-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q121_Best_Time_to_Buy_and_Sell_Stocks.cpp)|
+|[0122-Buy-Sell-Stocks-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q122_Buy_Sell_Stocks_II.cpp)|||
 
 ## BFS
 |  |  |  |
