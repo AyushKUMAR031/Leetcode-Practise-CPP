@@ -145,6 +145,11 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- |
 | [3356-Zero-Array-Transform-II](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q1000%2B/Q3356_Zero_Array_Transform_II.cpp) `H`|[]()|
 
+ ## Graph
+|  |  |
+| ------- | ------- |
+| [0547-Number_of_Provinces](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q547_Number_of_Provinces.cpp) |[]()|
+
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
