@@ -140,6 +140,11 @@ A repository for practicing Leetcode Questions 🔥
 |[1423-Maximum-point-You-can-Obtain-Card](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q1000%2B/Q1423_Maximum_Point_You_Can_Obtain.cpp)| [2379-MinRecolor-For-K-Consecutive-Black-Box](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q1000%2B/Q2379_MinRecolor_Required_For_K_Consecutive_Blacks.cpp)|[3208-Alternating-Group-II](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q1000%2B/Q3208_Alternating_Group_II.cpp) `M`|
 |[3306-substr-with-vowel-&-k-consonants](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q1000%2B/Q3306_Count_of_substr_with_every_Vowel_and_K_consonant.cpp) `H`|[]()|[]()|
 
+## Difference Array
+|  |  |
+| ------- | ------- |
+| [3356-Zero-Array-Transform-II](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q1000%2B/Q3356_Zero_Array_Transform_II.cpp) `H`|[]()|
+
 <!-- ## New Topic
 |  |  |
 | ------- | ------- |
