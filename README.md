@@ -4,9 +4,10 @@ A repository for practicing Leetcode Questions 🔥
 - 🎉 Atleast 1 question everyDay
 ### MileStones
 ---
-- ### 50 Days Badge
-  ---
-  <img src="Image/Screenshot (233).png" width="600" height="300"/>
+- ##### 50 Days Badge 2024
+  <img src="Image/Screenshot (233).png" width="500" height="300"/>
+- ##### 50 Days Badge 2025
+  <img src="Image/image2.png" width="500" height="300" />
 - 
 ### Topics
 ---
@@ -117,7 +118,7 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|
 |[0167-Two-Sum-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q167_Two_Sum_II.cpp)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0018-4Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q18_4Sum.cpp) `M`|
-|[0075-Sort-Colors](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q75_Sort_Colors.cpp) `M`|||
+|[0075-Sort-Colors](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q75_Sort_Colors.cpp) `M`| [0838-Push-Dominos](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q838_Push%20Domino.cpp) `M`||
 
 ## Prefix Sum
 |  |  |  |
