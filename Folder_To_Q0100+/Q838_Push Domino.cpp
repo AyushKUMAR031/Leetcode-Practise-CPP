@@ -1,7 +1,7 @@
 class Solution {
 public:
     string pushDominoes(string dominoes) {
-        s = 'L' + s + 'R' //we are adding our own in-effective non still domino at the end.
+        string s = 'L' + dominoes + 'R'; //we are adding our own in-effective non still domino at the end.
         //to solve by taking two domino as reference over the iteration for LR,LL,RR,RL cases.
 
         string res;
@@ -20,15 +20,15 @@ public:
             //cases
             //both LL or RR
             if(s[prev] == s[curr]){
-                res += string(span,s[prev]); //adding a string of length span where all char are s[prev] -> either L or R
+                res += string(between_domino,s[prev]); //adding a string of length between_domino where all char are s[prev] -> either L or R
             }
             // LR
             else if(s[prev]=='L' && s[curr] == 'R'){
-                res += string(span,'.');
+                res += string(between_domino,'.');
             }
             // RL
             else{
-                res += string(span/2,'R') + string(span %2 , '.') + string(span / 2 , 'L');
+                res += string(between_domino/2,'R') + string(between_domino %2 , '.') + string(between_domino / 2 , 'L');
             }
             prev = curr;
         }
