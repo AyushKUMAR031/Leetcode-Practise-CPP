@@ -6,7 +6,7 @@ A repository for practicing Leetcode Questions 🔥
 
 | 50 Days Badge 2024                                     | 50 Days Badge 2025                                     |
 |--------------------------------------------------------|--------------------------------------------------------|
-| <img src="Image/Screenshot (233).png" width="350" height="200"/> | <img src="Image/image2.png" width="350" height="200"/> |
+| <img src="Image/Screenshot (233).png" width="300" height="175"/> | <img src="Image/image2.png" width="300" height="175"/> |
 
 
 ## Topics
