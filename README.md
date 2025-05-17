@@ -2,26 +2,25 @@
 A repository for practicing Leetcode Questions 🔥
 - 🚀 Solving Daily Challenge Questions 
 - 🎉 Atleast 1 question everyDay
-### MileStones
----
-- ##### 50 Days Badge 2024
-  <img src="Image/Screenshot (233).png" width="500" height="300"/>
-- ##### 50 Days Badge 2025
-  <img src="Image/image2.png" width="500" height="300" />
-- 
-### Topics
----
+## MileStones
+
+| 50 Days Badge 2024                                     | 50 Days Badge 2025                                     |
+|--------------------------------------------------------|--------------------------------------------------------|
+| <img src="Image/Screenshot (233).png" width="350" height="200"/> | <img src="Image/image2.png" width="350" height="200"/> |
+
+
+## Topics
+
 ## Maths
 |  |  |
 | ------- | ------- |
 | [0008-String-to-Integer](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001%2B/Q8_String_to_Integer(atoi).cpp) | [0503-NextGreaterElement-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q503_Next_Greater_Element_II.cpp) |
 
 ## Binary Search Tree
-|  |  |
-| ------- | ------- |
-| [0700-Search-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q700_Search_in_BST.cpp) |[0701-Insert-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q701_Insert_in_BST.cpp) |
-| [0450-Delete-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q450_Delete_in_BST.cpp) | [0230-Kth-smallest-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q230_Kth_smallest_in_BST.cpp) |
-|[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) |||
+|  |  |  |
+| ------- | ------- | ------- |
+| [0700-Search-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q700_Search_in_BST.cpp) |[0701-Insert-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q701_Insert_in_BST.cpp) |[0450-Delete-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q450_Delete_in_BST.cpp) | 
+|[0230-Kth-smallest-in-a-BST](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Q100%2B/Q230_Kth_smallest_in_BST.cpp) |[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) ||
 
 ## Heap (Priority Queue)
 |  |  |
