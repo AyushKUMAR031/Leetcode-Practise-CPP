@@ -46,9 +46,9 @@ A repository for practicing Leetcode Questions 🔥
 |[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|[0162-Peak-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q162_Find_Peak_Element.cpp)||
 
 ## Matrix
-|  |  |
-| ------- | ------- |
-| [0048-Rotate-Image](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q48_Rotate_Image.cpp) |[]()|
+|  |  |  |
+| ------- | ------- | ------- |
+| [0048-Rotate-Image](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q48_Rotate_Image.cpp) |[0054-Sipral Matrix](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0010%2B/Q54_Sipral_Matrix.cpp)| []() |
 
 ## Sorting
 |  |  |
