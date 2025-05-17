@@ -151,7 +151,8 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- |
 | [0547-Number_of_Provinces](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q547_Number_of_Provinces.cpp) |[]()|
 
-<!-- ## New Topic
-|  |  |
-| ------- | ------- |
-| []() |[]()| -->
+## Bit Manipulation
+|  |  |  |
+| ------- | ------- | ------- |
+| [0191-Number-of-1-bits](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q191_Number_of_1_bits.cpp) |[0338-Counting_bits](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q338_Counting_bits.cpp)| [0190-Reverse-bits](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q190_Reverse_bits.cpp) |
+| [0268-Missing-Number](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q268_Missing_Number.cpp) | [0371-Sum-two-integers](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q371_Sum_of_Two_Integers.cpp) | []() |
