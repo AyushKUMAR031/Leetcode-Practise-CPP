@@ -23,3 +23,22 @@ public:
         return mins[k-1];
     }   
 };
+
+//without using vector
+class Solution {
+public:
+    int count = 0;
+    int ans = 0;
+    void solve(TreeNode* root,int k){
+        if(root == NULL) return;
+        solve(root->left,k);
+        count++;
+        if(count == k) ans = root->val;
+        solve(root->right,k);
+        return;
+    }
+    int kthSmallest(TreeNode* root, int k) {
+        solve(root,k);
+        return ans;
+    }
+};
