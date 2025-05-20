@@ -64,7 +64,7 @@ A repository for practicing Leetcode Questions 🔥
 |[0203-Remove-LL-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q203_Remove_LL_Element.cpp)|[0142-LL-Cycle-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q142_LL_Cycle_II.cpp) `M`|[2095-Delete-Mid-IN-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q1000%2B/Q2095_Delete_The_Mid_LL.cpp)|
 |[0328-Odd-Even-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q328_Odd_Even_LL.cpp)|[0083-Remove-Duplicate-in-Sorted-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q83_Remove_Duplicate_in_Sorted_LL.cpp)|[0082-Remove-Duplicates-in-Sorted-LL-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q82_Remove_Duplicates_in_Sorted_LL_II.cpp)|
 |[0234-Palindrome-In-LL](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q234_Palindrome_in_LL.cpp) `E`|[0002-Add-2-Number](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001%2B/Q2_Add_Two_Numbers.cpp) `M`| [0138-Copy-LL-with-Random-Pointer](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q138_Copy_LL_with_Random_Pointer.cpp) `H`|
-|[0146-LRU-Cache](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q146_LRU_Cache.cpp)|||
+|[0146-LRU-Cache](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q146_LRU_Cache.cpp)| [0019-Remove-Nth-Node-from-end-LL](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0010%2B/Q19_Remove_Nth_Node_from_end_of_LL.cpp)||
 
 ## Stack
 |  |  |  |
