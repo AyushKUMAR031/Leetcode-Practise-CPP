@@ -112,7 +112,7 @@ A repository for practicing Leetcode Questions 🔥
 | [0078-Subset](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q78_Subset.cpp) |[0017-Phone-Number-Letter-Combination](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q17_Letter_Combination_Phone_Number.cpp)| [0046-Permutation](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q46_Permutation.cpp) |
 |[0051-N-Queen-Problem](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q51_N_Queen.cpp) `H`| [0037-SudoKo-Solver](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q37_SudoKo_Solver.cpp) `H`|[0050-Pow(x,n)](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q50_Powe(x%2Cn).cpp)|
 |[0344-Reverse-A-String](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q344_Reverse_a_String.cpp)| [1922-CountGoodNumber](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q1000%2B/Q1922_CountGoodNumber.cpp) `M`|[0022-Generate-Parentheses](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q22_Generate_Parentheses.cpp)|
-|[0039-CombinationSum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q39_CombinationSum.cpp) `M`|||
+|[0039-CombinationSum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q39_CombinationSum.cpp) `M`| [0079-Word-Search](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0010%2B/Q79_Word_Search.cpp)||
 
 ## Two Pointer
 |  |  |  |
