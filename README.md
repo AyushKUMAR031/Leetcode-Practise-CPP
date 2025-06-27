@@ -30,7 +30,7 @@ A repository for practicing Leetcode Questions 🔥
 ## String
 |  |  |
 | ------- | ------- |
-| [0006-ZigZagConversion](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001%2B/Q6_ZigZag_Converison.cpp) |[]()|
+| [0006-ZigZagConversion](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0001%2B/Q6_ZigZag_Converison.cpp) |[2138-Divide-A-String-In-Group-Of-K]()|
 
 ## Array
 |  |  |  |
@@ -39,12 +39,15 @@ A repository for practicing Leetcode Questions 🔥
 |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|[0152-Maximum-Product-SubArray](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q152_Maximum_Product_Subarray.cpp)|
 |[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)|[0350-Intersection-with-2-Array-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q350_Interaction_with_2_Array_II.cpp)|
 | [0217-Contains-Dups](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q217_Contains_Dups.cpp)| [0347-Top-K-freq-ele](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100+/Q347_Top_K_freq_elements.cpp) `bucket array`|[0238-Product-Array-Except-Self](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q238_Product_array_except_self.cpp)|
+|[0283-Moves-Zeros]()|[0905-Sort-Array_by-Parity]()||
+||||
 
 ## Binary Search
 |  |  |  |
 | ------- | ------- | ------- |
 | [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|[0069-SqrtX](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010+/Q69_Sqrt(x).cpp)|
-|[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|[0162-Peak-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q162_Find_Peak_Element.cpp)||
+|[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|[0162-Peak-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q162_Find_Peak_Element.cpp)|[0875-KoKo-Eating-Bananas]()|
+||||
 
 ## Matrix
 |  |  |  |
@@ -77,7 +80,8 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0746-Min-Cost-Climbing](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q746_Min_cost_Climbing_Stairs.cpp) |[0322-Coin-Change](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q322_Coin_Change.cpp) `P`|[0198-House-Robber](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q198_House_Robber.cpp)|
 |[0213-House-Robber-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q213_House_Robber_II.cpp)|[0518-Coin-Change-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q518_Coin_Change_II.cpp) `P`|[0121-Buy-Sell-Stocks-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q121_Best_Time_to_Buy_and_Sell_Stocks.cpp)|
-|[0122-Buy-Sell-Stocks-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q122_Buy_Sell_Stocks_II.cpp)|[0377-Combination-Sum-IV](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q377_Combination_Sum_IV.cpp) `P`||
+|[0122-Buy-Sell-Stocks-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q122_Buy_Sell_Stocks_II.cpp)|[0377-Combination-Sum-IV](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q377_Combination_Sum_IV.cpp) `P`|[1143-LCS]()`Imp`|
+|[2742-Paint-The-Wall]()`H 2D-DP`|||
 
 ## BFS
 |  |  |  |
@@ -97,14 +101,16 @@ A repository for practicing Leetcode Questions 🔥
 | [0101-Symmetric-tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q101_Symmetric_tree.cpp)|[0102-Binary-Tree-levelOrder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q102_Binary_Tree_Level_Order.cpp) | [0104-Max-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q104_Maximum_Depth_in_Binary_tree.cpp)|
 | [0144-PreOrderTraversal](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q144_PreOrderTraversal.cpp)|[0094-InOrderTraversal](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q94_InOrderTraversal.cpp)| [0145-PostOrderTraversal](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q145_PostOrderTraversal.cpp)| 
 |[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) | [0110-Balanced-Binary-Tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q110_Balanced_Binary_Tree.cpp) `GG` | [0105-Construct-BT-from-pre-and-inOrder-array](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/tree/main/Folder_To_Q0100+) |
-| [0124-BTree-Maximum-Path-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q124_Binary_Tree_Maximum_Path_Sum.cpp) `H`| [0297-Serialize-DeSerialize-BTree](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q297_Serialize_deserialize_Btree.cpp) `H new GG` | []() |
+| [0124-BTree-Maximum-Path-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q124_Binary_Tree_Maximum_Path_Sum.cpp) `H`| [0297-Serialize-DeSerialize-BTree](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q297_Serialize_deserialize_Btree.cpp) `H new GG` | [0572-Subtree-of-Another-Tree]() |
+||||
 
 ## Hash Table
 |  |  |  |
 | ------- | ------- | ------- |
 | [0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) `H` |[0525-Contiguous-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q525_Contiguous_Array.cpp) `M`|[0349-Intersection-Of-2-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q349_Intersection_Of_2_Array.cpp)|
 |[0442-Find-All-Duplicates-in-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q442_Find_All_Duplicates_in_an_Array.cpp)|[0242-Valid-Anagram](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q242_Valid_Anagram.cpp)| [0076-Minimum-Window-Substring](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q76_Minimum_Window_SubString.cpp) `H`|
-|[0496-Next-Greater-Element-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q496_Next_Greater_Element.cpp)|||
+|[0496-Next-Greater-Element-I](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q496_Next_Greater_Element.cpp)|[3085-Min-Del-To-Make-Strin-K-Special]() `M`|[3443-Max-Manhattan-dis-after-k-Changes]()`M`|
+||||
 
 ## Recursion and BackTracking
 |  |  |  |
@@ -119,7 +125,8 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|
 |[0167-Two-Sum-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q167_Two_Sum_II.cpp)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0018-4Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q18_4Sum.cpp) `M`|
-|[0075-Sort-Colors](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q75_Sort_Colors.cpp) `M`| [0838-Push-Dominos](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q838_Push%20Domino.cpp) `M`||
+|[0075-Sort-Colors](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q75_Sort_Colors.cpp) `M`| [0838-Push-Dominos](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q838_Push%20Domino.cpp) `M`|[0438-Find-all-anagram]()|
+||||
 
 ## Prefix Sum
 |  |  |  |
