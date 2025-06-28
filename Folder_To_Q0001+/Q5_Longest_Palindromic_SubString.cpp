@@ -1,38 +1,40 @@
-#include <string>
-#include <algorithm>
-using namespace std;
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int len = s.length();
-        if (len == 0) return "";
-        
-        vector<string> arr;
+        if(s.size() <= 1) return s;
 
-        for (int i=0;i<len-1;i++){
-        int start = i;
-        int end = len - 1;
-        while(start <= end){
-            if(s[start] == s[end]){
-                string subStr = s.substr(start, end - start + 1);
-                string revSubStr = subStr;
-        
-                reverse(revSubStr.begin(), revSubStr.end());
-    
-                if(subStr.compare(revSubStr) == 0){
-                    arr.push_back(subStr);
-                }
+        string res = "";
+
+        for(int i=0;i<s.size();i++){
+
+            //for odd length 1,3,5 
+            //cause we are moving both left and right pointer.
+            int l = i,r = i;
+            while(l >= 0 && r < s.size() && s[l] == s[r]){
+                l--;
+                r++;
             }
-            end--;
+
+            //using current l and r to get substring
+            if ((r - l - 1) > res.size()) {
+                res = s.substr(l + 1, r - l - 1);
+            }
+
+            //for even length , same thing but we start l at i-1 and r at i to make a even length
+            l = i-1;
+            r = i;
+
+            while(l >= 0 && r < s.size() && s[l] == s[r]){
+                l--;
+                r++;
+            }
+            
+            if ((r - l - 1) > res.size()) {
+                res = s.substr(l + 1, r - l - 1);
+            }
+
         }
-       }
-        string longest;
-        for(const auto& xyz: arr){
-            if(xyz.length() > longest.length()){
-                longest = xyz;
-            }
-       }
-        return longest;
+        
+        return res;
     }
-
 };
