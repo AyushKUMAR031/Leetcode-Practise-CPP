@@ -167,6 +167,11 @@ A repository for practicing Leetcode Questions 🔥
 | [0268-Missing-Number](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q268_Missing_Number.cpp) | [0371-Sum-two-integers](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q371_Sum_of_Two_Integers.cpp) | []() |
 ||[0260-Single-Number-III](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q260_Single_Number_III.cpp) `M Imp`||
 
+## Queue
+|  |  |  |
+| ------- | ------- | ------- |
+|[2099-Find-SubSeq-of-Length-K](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q1000%2B/Q2099_Find_SubSequence_of_length_k.cpp) `E Imp PQ`|||
+
 ## Logical
 |  |  |  |
 | ------- | ------- | ------- |
