@@ -47,7 +47,7 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0034-First-&-Last-Occurence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q34_Find_First_%26_Last_Occurence.cpp) |[0852-Peak-In-Mountain](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q852_Peak_in_Mountain.cpp)|[0069-SqrtX](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010+/Q69_Sqrt(x).cpp)|
 |[0033-Search-in-Rotated-Sorted-Array](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q33_Search_in_Rotated_Sorted_Array.cpp)|[0162-Peak-Element](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q162_Find_Peak_Element.cpp)|[0875-KoKo-Eating-Bananas](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q875_Koko_Eating_bananas.cpp)|
-|[1011-Capacity-to-ship-packages-in-D-Days]()|||
+|[1011-Capacity-to-ship-packages-in-D-Days](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q1011_Capacity_to_ship_packages_in_D_Days.cpp)|||
 
 ## Matrix
 |  |  |  |
@@ -88,8 +88,8 @@ A repository for practicing Leetcode Questions 🔥
 | ------- | ------- | ------- |
 | [0100-Same-Tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q100_Same_Tree.cpp) |[0101-Symmetric-tree](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q101_Symmetric_tree.cpp) |[0102-Binary-Tree-levelOrder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q102_Binary_Tree_Level_Order.cpp) |
 |[0104-Max-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q104_Maximum_Depth_in_Binary_tree.cpp) |[0127-Word-Ladder](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q127_Word_Ladder.cpp) | [0111-Minimum-Depth](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q111_Minimum_depth.cpp) |
-|[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) |[0112-Path-Sum]()|[0113-Path-Sum-II]()|
-|[0129-Sum-Root-To-Leaf]()|||
+|[0098-Validate-BST-from-BT](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q98_Validate_BST.cpp) |[0112-Path-Sum](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q112_Path_Sum.cpp)|[0113-Path-Sum-II](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q113_Path_Sum_II.cpp)|
+|[0129-Sum-Root-To-Leaf](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q129_Sum_root_to_leaf.cpp)|||
 
 ## DFS
 |  |  |
@@ -127,7 +127,7 @@ A repository for practicing Leetcode Questions 🔥
 | [0392-Is_Subsequence](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q392_Is_Subsequence.cpp) |[0042-Trapping-RainWater](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q42_Trapping_Rain_Water.cpp) `H`|[0011-Contains-Most-Water](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q11_Contains_Most_Water.cpp)|
 |[0167-Two-Sum-II](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0100%2B/Q167_Two_Sum_II.cpp)|[0015-3Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q15_3Sum.cpp)|[0018-4Sum](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q18_4Sum.cpp) `M`|
 |[0075-Sort-Colors](https://github.com/AyushKUMAR031/Leetcode-Practise/blob/main/Folder_To_Q0010%2B/Q75_Sort_Colors.cpp) `M`| [0838-Push-Dominos](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q838_Push%20Domino.cpp) `M`|[0438-Find-all-anagram](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0100%2B/Q438_Find_all_anagram_in_String.cpp)|
-|[0005-Longest-Palindromic-String]() `H Imp`|||
+|[0005-Longest-Palindromic-String](https://github.com/AyushKUMAR031/Leetcode-Practise-CPP/blob/main/Folder_To_Q0001%2B/Q5_Longest_Palindromic_SubString.cpp) `H Imp`|||
 
 ## Prefix Sum
 |  |  |  |
